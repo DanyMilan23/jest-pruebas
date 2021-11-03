@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "jest":{
+    "testEnviroment": "node"
+  }
+}
